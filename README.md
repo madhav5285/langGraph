@@ -1,0 +1,1 @@
+vitual env-> myenv\Scripts\activate
